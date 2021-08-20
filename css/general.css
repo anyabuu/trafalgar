@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-size: 10px;
+}
+
+.container {
+    width: 1600px; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.profile ul {
+    
+}
